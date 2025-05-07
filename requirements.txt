@@ -4,4 +4,5 @@ torchvision
 numpy
 pillow
 gradio
+gunicorn
 # add any other dependencies TryOnGAN requires
