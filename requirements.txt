@@ -1,8 +1,5 @@
-flask
-torch
-torchvision
-numpy
+fastapi
+uvicorn
 pillow
-gradio
-gunicorn
-# add any other dependencies TryOnGAN requires
+torch
+# and any TryOnGAN specific dependencies
