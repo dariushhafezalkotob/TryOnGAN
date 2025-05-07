@@ -1,0 +1,7 @@
+flask
+torch
+torchvision
+numpy
+pillow
+gradio
+# add any other dependencies TryOnGAN requires
